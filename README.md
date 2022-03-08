@@ -35,9 +35,6 @@ In addition, the Application may collect certain information automatically, incl
 
 Again, this list is not comprehensive. Adjust it according to what your app actually asks for.
 
- 
-Does the Application collect precise real time location information of the device?
-If your app uses geolocation, check out the specific branch of this document https://www.docracy.com/6513/mobile-privacy-policy-geolocated-apps-
 
 This Application does not collect precise information about the location of your mobile device. 
 
