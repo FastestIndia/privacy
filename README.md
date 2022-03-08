@@ -65,14 +65,14 @@ You can stop all collection of information by the Application easily by uninstal
  
 
 Data Retention Policy, Managing Your Information
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@applicationsite.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at info@fastestindia.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
  
 
 Children
 Your app has to comply with the Children’s Online Privacy Protection Act (COPPA). Developers should pay particular attention to COPPA when creating apps that contain cartoon characters or other features that may cause the app to be perceived as being directed towards children under 13. Consider including language in your Terms of Service that makes users represent they are of age. Application developers creating apps that might be governed under COPPA or similar laws are encouraged to obtain counsel to ensure that their data collection policies are in line with current law in the jurisdiction(s) where the app may be used.
 
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@applicationsite.com. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at info@fastestindia.com. We will delete such information from our files within a reasonable time.
 
  
 Security
